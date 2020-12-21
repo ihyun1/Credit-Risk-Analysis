@@ -2,7 +2,7 @@
 
 ## Overview
 
-We have been tasked with building six different machine learning models that can help our client to assess credit card risk. Due to the nature of credit risk, as an unbalanced classification problem, we will be utilizing the imbalanced-learn and scikit-learn packages. We will utilize a dataset provided by LendingClub, a peer to peer lending services company.
+We have been tasked with building six different machine learning models that can help our client to assess credit card risk. Due to the nature of credit risk, as an unbalanced classification problem, we will be utilizing the imbalanced-learn and scikit-learn packages. We will analyze a dataset provided by LendingClub, a peer to peer lending services company.
 
 
 ## Analysis
